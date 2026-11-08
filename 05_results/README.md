@@ -1,5 +1,5 @@
-# 실험 결과
+# Experiment Results
 
-아직 실행한 실험이 없으며, 기록할 결과도 없습니다.
+No experiments have been run, so there are no results to report yet.
 
-실험을 실제로 수행한 뒤 이 문서에 날짜, 목적, 핵심 설정, 주요 결과, 해석/한계, 관련 그림·파일 경로를 짧게 추가합니다. 결과가 쌓여 분리가 필요할 때만 실험별 Markdown 파일을 만듭니다. 실행하지 않은 실험이나 예상 결과를 완료 결과로 기록하지 않습니다.
+After each experiment, add a concise summary here covering the date, purpose, key settings, main findings, interpretation and limitations, and paths to related figures or files. Create separate experiment Markdown files only when enough results have accumulated to justify them. Do not report unrun experiments or expected outcomes as completed results.

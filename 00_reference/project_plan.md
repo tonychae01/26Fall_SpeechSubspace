@@ -2,9 +2,9 @@
 
 **Beyond Single-Unit STRFs: Understanding Auditory Tuning Subspaces in HuBERT and wav2vec 2.0**
 Tony Chae, Stefan Hajduk
-초안 기록일: 2026-11-07
+Draft recorded: 2026-11-07
 
-이 문서는 현재 제안 내용을 정리한 변경 가능한 계획이다. 아래 항목은 실험 결과나 검증된 결론이 아니다. 실제 진행 상태는 `progress.md`에서 관리한다.
+This document is a working plan based on the current proposal and may be revised. The items below are planned work, not experimental results or validated conclusions. Actual progress is tracked in `progress.md`.
 
 ## Motivation & Research Question
 

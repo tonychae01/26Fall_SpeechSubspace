@@ -1,29 +1,31 @@
-# 진행 기록
+# Progress Log
 
-마지막 업데이트: 2026-11-07
+Last updated: 2026-11-07
 
-## 현재 상태
+## Current Status
 
-폴더 구성과 계획 문서만 준비 완료. 환경 설정, 데이터 준비, 실험 실행은 아직 하지 않음.
+The folder structure and planning documents are ready. Environment setup, data preparation, and experiments have not started.
 
-## 체크리스트
+## Checklist
 
-- [x] 프로젝트 폴더 구성
-- [x] 현재 제안 기반 프로젝트 계획 초안 작성
-- [x] requirements.txt 자리 마련 — 패키지는 추후 추가
-- [ ] 외부 `envs` 폴더에 가상환경 설정 — 추후 별도 진행
-- [ ] 참조 논문 방법 확인 및 실험 세부 설정 확정
-- [ ] 모델 및 LibriSpeech 준비
-- [ ] Exp. 1: STRF / dSTRF 추출 및 비교
-- [ ] Exp. 2: PCA 및 SSRF 적합 / held-out 평가
-- [ ] Exp. 3: 레이어별 population subspace 분석
-- [ ] Exp. 4: 출판된 auditory cortex 결과와 비교
-- [ ] 최종 그림 및 보고서
+- [x] Create the project folder structure
+- [x] Draft the project plan from the current proposal
+- [x] Add a requirements.txt placeholder — dependencies will be added later
+- [x] Translate all project documentation into English
+- [ ] Set up a virtual environment in an external `envs` directory — deferred
+- [ ] Review the reference methods and finalize experimental settings
+- [ ] Prepare the models and LibriSpeech data
+- [ ] Exp. 1: Extract and compare STRFs / dSTRFs
+- [ ] Exp. 2: Run PCA and fit / evaluate SSRFs on held-out data
+- [ ] Exp. 3: Analyze layer-wise population subspaces
+- [ ] Exp. 4: Compare with published auditory cortex results
+- [ ] Prepare final figures and report
 
-## 다음 작업
+## Next Steps
 
-사용자와 다음 단계를 정한 뒤 한 단계씩 진행한다. 현재는 환경 설정이나 실험을 시작하지 않는다.
+Agree on the next step with the user and proceed incrementally. Environment setup and experiments remain deferred.
 
-## 변경 기록
+## Change Log
 
-- 2026-11-07: 저장소 기본 구조, 계획, 진행 기록, 결과 기록 위치를 준비함. 실행된 실험 없음.
+- 2026-11-07: Prepared the repository structure, project plan, progress log, and results log. No experiments have been run.
+- 2026-11-07: Translated the remaining Korean documentation into English.
