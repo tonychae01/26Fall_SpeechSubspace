@@ -1,0 +1,21 @@
+# Python / local environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+envs/
+.env
+
+# Large data, model files, and external downloads
+01_raw_data/*
+!01_raw_data/.gitkeep
+02_processed_data/*
+!02_processed_data/.gitkeep
+04_checkpoints/*
+!04_checkpoints/.gitkeep
+06_external/*
+!06_external/.gitkeep
+
+# Local metadata
+.DS_Store
