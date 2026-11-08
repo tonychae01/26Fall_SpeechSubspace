@@ -1,1 +1,12 @@
-# Dependencies will be added when environment setup is planned.
+# Run from the repository root with env-speech's Python.
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.9.4
+pandas==2.2.3
+scikit-learn==1.6.1
+tensorflow[and-cuda]==2.15.1
+ipykernel>=6.29,<7
+nbclient>=0.10,<0.11
+seaborn>=0.13,<0.14
+statsmodels>=0.14,<0.15
+PyNEMS @ git+https://github.com/LBHB/NEMS.git@6b979b8233c922646b1516a6dee107bcfdb1400e

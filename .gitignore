@@ -19,3 +19,7 @@ envs/
 
 # Local metadata
 .DS_Store
+
+# Batch logs and regenerable probe arrays
+logs/
+05_results/**/*.npz

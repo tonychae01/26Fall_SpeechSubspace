@@ -1,0 +1,13 @@
+{
+  "scope": "Method smoke check; not a paper-result reproduction",
+  "stimulus_site": "CLT027c",
+  "model": "Official NEMS demo CNN32, batch 322",
+  "output_cellid": "ARM029a-04-1",
+  "contexts": 64,
+  "history_bins": 25,
+  "linear_gradient_max_error": 0.0,
+  "finite_difference_max_error": 1.4696472185327103e-06,
+  "forward_max_error": 1.734723475976807e-17,
+  "centered_pca_k95": 3,
+  "training_performed": false
+}

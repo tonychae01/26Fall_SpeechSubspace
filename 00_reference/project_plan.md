@@ -70,7 +70,7 @@ Determine whether low-dimensional nonlinear subspaces explain model computations
 | 3 | Population subspace and cross-layer analyses |
 | 4 | Cortical comparison, visualization, and final report |
 
-This is a tentative sequence; dates and scope can change. Environment setup is deferred and will use an external `envs` directory.
+This is a tentative sequence; dates and scope can change. Environment setup now uses the external `envs/env-speech` directory. The current first step is a small Wingert-method STRF/dSTRF pilot before speech-model experiments; see `progress.md` for its actual status.
 
 ## References Provided in the Proposal
 

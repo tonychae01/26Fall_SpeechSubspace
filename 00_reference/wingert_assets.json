@@ -1,0 +1,35 @@
+{
+  "retrieved_date": "2026-11-07",
+  "files": [
+    {
+      "path": "01_raw_data/wingert2026/CLT027c_0ac9836c26905c43e7527a70a89c623586b42562.tgz",
+      "source": "https://zenodo.org/records/18331549/files/recordings.zip",
+      "bytes": 5234534,
+      "sha256": "bb6217157432696107ea4fd4268757c1d04470011d16c24183796843c8c11263"
+    },
+    {
+      "path": "06_external/wingert2026/models.zip",
+      "source": "https://zenodo.org/records/18331549/files/models.zip",
+      "bytes": 71924,
+      "sha256": "2ef00f4c3a0e58efe9add06af0ac330302828506125ccaf775e900d5f79360bc"
+    },
+    {
+      "path": "06_external/wingert2026/README.md",
+      "source": "https://zenodo.org/records/18331549/files/README.md",
+      "bytes": 3913,
+      "sha256": "5a8c1213d6c15767bc16aaabbcd69f9531717fdec689d29a1023885bf0eb3c24"
+    },
+    {
+      "path": "06_external/wingert2026/nems_demo_cnn32.json",
+      "source": "https://nemspublic.s3.us-west-2.amazonaws.com/sample_models/CNN-gtgram.fs100.ch32-norm.l1.json",
+      "bytes": 11786438,
+      "sha256": "1c2f441ddf404b81f3bf51fed58e2a83759679f554fee99c62cdf0d8d9f91b58"
+    },
+    {
+      "path": "06_external/wingert2026/aud_subspace_fit_demo.ipynb",
+      "source": "https://zenodo.org/records/18331549/files/aud_subspace_fit_demo.ipynb",
+      "bytes": 882954,
+      "sha256": "5488d2ab5a722e90cac21d63642a59530ff6deb2239271b4838687d4effa7564"
+    }
+  ]
+}

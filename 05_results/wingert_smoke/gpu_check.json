@@ -1,0 +1,8 @@
+{
+  "job_id": "7236",
+  "host": "n0004.catscan0",
+  "response_device": "/job:localhost/replica:0/task:0/device:GPU:0",
+  "parameter_gradients_finite": true,
+  "input_gradients_finite": true,
+  "tensorflow": "2.15.1"
+}
