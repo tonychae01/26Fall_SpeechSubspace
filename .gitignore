@@ -6,6 +6,12 @@ __pycache__/
 venv/
 envs/
 .env
+# Local datasets and generated artifacts
+/01_raw_data/
+/02_processed_data/
+/04_checkpoints/
+# External repositories have their own Git histories (see 00_reference/EXTERNAL_REPOS.md).
+/06_external/
 
 # Large data, model files, and external downloads
 01_raw_data/*
